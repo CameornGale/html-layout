@@ -1,0 +1,34 @@
+.header {
+  background: #404040;
+  width: 100%;
+  height: 100px;
+}
+section {
+  float: left;
+
+  height: 700px;
+
+}
+.sec1 {
+   background: #cccccc;
+   width: 15%;
+
+}
+
+.sec2 {
+  background: #f2f2f2;
+  width: 70%;
+}
+#foot {
+  height: 60px;
+  background: #333333;
+  margin-top: 640px;
+  width: 100%
+
+}
+
+.sec3{
+   background: #cccccc;
+    width: 15%;
+
+}
