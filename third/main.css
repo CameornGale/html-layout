@@ -1,0 +1,62 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+background: gray;
+height: 14%;
+
+}
+
+.logo {
+background: blue;
+height: 80%;
+width: 6%;
+float: left;
+position: relative;
+top: 50%;
+transform: translateY(-50%);
+margin-left: 5%;
+
+}
+
+.article {
+  height: 30%;
+  text-align: center;
+
+
+}
+.article p {
+margin: auto;
+ position: relative;
+ top: 50%;
+ transform: translateY(-50%);
+}
+
+
+.container {
+  height: 56%;
+}
+
+.container section {
+  height: 25%;
+
+}
+
+.box1 {
+  background: blue;
+
+}
+
+.box2 {
+background: teal;
+}
+.box3 {
+  background: lime;
+
+}
+.box4 {
+  background: yellow;
+
+}
